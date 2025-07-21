@@ -1,4 +1,4 @@
-# Vue PDF Viewer Starter Toolkit in Ionic Framework (TypeScript)
+# Vue PDF Viewer Starter Toolkit in Vue 3 + Ionic Framework + TypeScript
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/ionic-vue-typescript)
 
