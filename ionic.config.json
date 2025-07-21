@@ -1,0 +1,7 @@
+{
+  "name": "Vue PDF Viewer Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
