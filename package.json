@@ -12,13 +12,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@capacitor/android": "^7.4.2",
-    "@capacitor/app": "7.0.1",
-    "@capacitor/core": "7.4.0",
-    "@capacitor/haptics": "7.0.1",
-    "@capacitor/ios": "^7.4.2",
-    "@capacitor/keyboard": "7.0.1",
-    "@capacitor/status-bar": "7.0.1",
+    "@capacitor/android": "8.3.0",
+    "@capacitor/app": "8.1.0",
+    "@capacitor/core": "8.3.0",
+    "@capacitor/haptics": "8.0.2",
+    "@capacitor/ios": "8.3.0",
+    "@capacitor/keyboard": "8.0.2",
+    "@capacitor/status-bar": "8.0.2",
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
     "@vue-pdf-viewer/viewer": "^2.5.11",
@@ -27,7 +27,7 @@
     "vue-router": "^4.2.0"
   },
   "devDependencies": {
-    "@capacitor/cli": "7.4.0",
+    "@capacitor/cli": "8.3.0",
     "@vitejs/plugin-legacy": "^5.0.0",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vue/eslint-config-typescript": "^12.0.0",
